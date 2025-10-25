@@ -1,0 +1,16 @@
+{
+  "name": "parcial2-pw-sec02-c2-2025",
+  "version": "1.0.0",
+  "description": "API REST para gestion de cuentas - Examen Practico II",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["express", "rest-api", "backend", "node"],
+  "author": "Antony",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
